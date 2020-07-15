@@ -1,10 +1,6 @@
 ### Bonjour les amis👋
  
 I am a Pre final Computer Science student at Banasthali Vidyapith. I am a learning Enthusiast looking for the opportunities from where i can keep up to date my self.
-<!--
-**poojaagrawal134/poojaagrawal134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android App Development
 - 🌱 I’m currently learning Flutter .
